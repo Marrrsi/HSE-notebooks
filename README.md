@@ -1,7 +1,7 @@
 Краткая навигация:
-- [homework4_kondakov (1).ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/homework4_kondakov%20(1).ipynb): решение задачи классификации с помощью нескольких алгоритмов;
-- [hw02_KONDAKOVARTEM.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/hw02_KONDAKOVARTEM.ipynb): работа с данными по ценным бумагам;
-- [hw03_KONDAKOVARTEM.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/hw03_KONDAKOVARTEM.ipynb): решение задачи регрессии на данных о спросе;
-- [hw03_eda_kondakov_artem.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/hw03_eda_kondakov_artem.ipynb): exploratory data analysis для датасета о показаниях физической активности;
-- [hw3_kondakov_ad_iad5 (1).ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/hw3_kondakov_ad_iad5%20(1).ipynb): решение задачи детекции объектов;
-- [метрикс (2).pdf](https://github.com/Marrrsi/HSE-notebooks/blob/main/метрикс%20(2).pdf) и [метриксдз (1) (2).ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/метриксдз%20(1)%20(2).ipynb): отчёт и код, включающие анализ временных рядов.
+- [classification.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/classification.ipynb): решение задачи классификации с помощью нескольких алгоритмов;
+- [stock_data_analysis.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/stock_data_analysis.ipynb): работа с данными по ценным бумагам;
+- [demand_regression.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/demand_regression.ipynb): решение задачи регрессии на данных о спросе;
+- [eda_physical.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/eda_physical.ipynb): exploratory data analysis для датасета о показаниях физической активности;
+- [detection.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/detection.ipynb): решение задачи детекции объектов;
+- [эконометрика_отчёт.pdf](https://github.com/Marrrsi/HSE-notebooks/blob/main/эконометрика_отчёт.pdf) и [эконометрика_код.ipynb](https://github.com/Marrrsi/HSE-notebooks/blob/main/эконометрика_код.ipynb): отчёт и код, включающие анализ временных рядов.
